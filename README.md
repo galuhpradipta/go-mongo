@@ -1,3 +1,3 @@
 # go-mongo
 
-# Simple CRUD program with Go and MongoDB
+ Simple CRUD program with Go and MongoDB
